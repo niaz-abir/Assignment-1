@@ -1,0 +1,282 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+   
+.header{
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1400px;
+    height: 400px;
+    padding-bottom: 80px;
+    
+}
+.heading-tag{
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 35px;
+}
+.header h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+.header  p{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+.main-button{
+    text-align: center;
+}
+.btn{
+    background-color: crimson;
+    padding: 10px 20px;
+    color: white;
+    border: 1px solid crimson;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
+
+/*donate today start from here*/
+.donate-today{
+    padding:100px;
+
+}
+
+.donate-today h1{
+    text-align: center;
+    font-size: 35px;
+    padding-top: 10px;
+
+    
+}
+
+.donate-today h3{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.input{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid;
+    padding: 10px;
+    margin-top: 20px;
+}
+.donate-today-div div{
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    
+    
+}
+.donate-today-div .money{
+    background-color: #E5E8E8 ;
+    padding: 1.25rem;
+    margin: 10px;
+   
+}
+#money-color{
+    background-color: rgb(178, 189, 131);
+    border: 1px solid #728e0e;
+}
+.donate-today h6{
+    text-align: center;
+    color: gray;
+    padding-top: 50px;
+}
+
+.donate-today h6{
+    padding: 20px 20px;
+}
+/*donate today end here*/
+
+
+
+
+/* donate plan start here*/
+.donate-plane h1{
+    text-align: center;
+    font-size: 35px;
+    padding-top: 40px;
+    
+}
+.donate-plane p{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    
+}
+.donate{
+    display: flex;
+    justify-content: space-between;
+    margin-left:200px ;
+    height: 320px;
+    width: 1050px;
+}
+.donate-plane p{
+    padding-bottom: 20px;
+}
+.first-donate{
+    background-color: #FFC0CB;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+
+}
+.second-donate{
+     background-color: #A9CCE3 ;
+     margin-left: 20px;
+     margin-right: 20px;
+     padding-left: 20px;
+     padding-top: 30px;
+
+}
+.third-donate{
+    background-color: #F9E79f;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    
+}
+.first-donate p{
+    text-align: left;
+}
+.second-donate p{
+    text-align: left;
+}
+.third-donate p{
+    text-align: left;
+}
+/*  <!--donate plane end here-->*/
+
+
+/*--donate partner start here-->*/
+.donate-partner-company{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+   
+ 
+}
+
+
+.donate-partner h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+
+}
+.donate-partner-company{
+    align-items: center;
+    margin-left: 200px;
+}
+
+.donate-partner span{
+    color: #E74C3C;
+}
+
+
+.partner-image img{
+   
+    width: 50% !important;
+}
+/*<!--donate partner start here-->*/
+
+
+/*last update start here*/
+.last-update h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.last-update-mid{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+ 
+}
+.update-icon{
+    background-color:ffafcc;
+    padding: 40px 40px;
+    margin: 20px;
+}
+.update-icon span{
+    color: #097807;
+}
+.icon{
+    font-size: 70px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    color:#C4356F;
+}
+/*last update end here*/
+
+
+
+
+/*input section start here*/
+
+.input-section h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+
+}
+.input-section h3{
+    text-align: center;
+    color: gray;
+    padding-bottom: 30px;
+}
+.input-from{
+   width: 70%;
+   height: 130px;
+   margin-left: 240px; 
+   background-color: beige;
+   text-align: center;
+   padding-top: 100px;
+}
+#in-em{
+    border: 1px solid rgb(171, 169, 169);
+    padding: 10px 20px;
+    background-color: rgb(171, 169, 169);
+}
+/*input section end here*/
+
+/*footer start from here*/
+.footer{
+    background-color: black;
+    height: 250px;
+    margin-top: 100px;
+}
+.footer h1{
+    color: rgb(223, 95, 48);
+    text-align: center;
+    padding-top: 100px;
+}
+.footer h4{
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
